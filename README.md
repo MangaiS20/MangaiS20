@@ -16,6 +16,8 @@ I am a Data Science graduate with a strong interest in Data Analytics, Machine L
 - Currently improving SQL, Python, and Data Analytics skills
 - Open to Data Analyst, Data Science, and Clinical Data roles
 
+I enjoy building data-driven solutions and continuously expanding my knowledge through hands-on projects and real-world applications.
+
 ---
 
 ## Technical Skills
