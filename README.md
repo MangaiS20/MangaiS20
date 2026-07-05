@@ -1,7 +1,7 @@
 # Hi, I'm Mangai
 
 **M.Sc. Data Science Graduate**  
-Aspiring Data Analyst | Python | SQL | Machine Learning  
+Data Analyst | Python | SQL | Machine Learning  
 Tamil Nadu, India
 
 ---
