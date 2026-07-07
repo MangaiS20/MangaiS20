@@ -1,7 +1,7 @@
 # Hi, I'm Mangai
 
-Data Science Graduate  
-Data Science Graduate | Python | SQL | Machine Learning | Clinical Data Validation
+**Data Science Graduate**  
+Python | SQL | Data Analytics | Machine Learning | Clinical Data Validation
 
 Tamil Nadu, India
 
