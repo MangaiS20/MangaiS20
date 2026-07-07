@@ -14,7 +14,7 @@ I am a Data Science graduate with a background in Computer Science and hands-on 
 I enjoy transforming data into meaningful insights, developing machine learning solutions, and continuously learning new technologies to solve real-world problems.
 
 - Interested in Data Analytics, Machine Learning, and AI
-- Python | SQL | Power BI
+- Python, SQL, Power BI
 - Clinical Data Validation (SDTM, Pinnacle21, Kwalify)
 - Continuously improving my Python, SQL, and Data Analytics skills
 - Open to Data Analyst, Data Science, Clinical Data Analyst, and Healthcare Analytics opportunities
