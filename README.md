@@ -1,22 +1,23 @@
 # Hi, I'm Mangai
 
-**M.Sc. Data Science Graduate**  
-Data Analyst | Python | SQL | Machine Learning  
+Data Science Graduate  
+Data Science Graduate | Python | SQL | Machine Learning | Clinical Data Validation
+
 Tamil Nadu, India
 
 ---
 
 ## About Me
 
-I am a Data Science graduate with a strong interest in Data Analytics, Machine Learning, and Clinical Data Validation. I enjoy solving real-world problems using data and continuously improving my technical skills.
+I am a Data Science graduate with a background in Computer Science and hands-on experience in Data Analytics, Machine Learning, Clinical Data Validation, and Software Development through internships and academic projects.
 
-- Interested in Data Analytics & Machine Learning
+I enjoy transforming data into meaningful insights, developing machine learning solutions, and continuously learning new technologies to solve real-world problems.
+
+- Interested in Data Analytics, Machine Learning, and AI
 - Python | SQL | Power BI
 - Clinical Data Validation (SDTM, Pinnacle21, Kwalify)
-- Currently improving SQL, Python, and Data Analytics skills
-- Open to Data Analyst, Data Science, and Clinical Data roles
-
-I enjoy building data-driven solutions and continuously expanding my knowledge through hands-on projects and real-world applications.
+- Continuously improving my Python, SQL, and Data Analytics skills
+- Open to Data Analyst, Data Science, Clinical Data Analyst, and Healthcare Analytics opportunities
 
 ---
 
@@ -27,43 +28,64 @@ I enjoy building data-driven solutions and continuously expanding my knowledge t
 - SQL
 - R (Basic)
 
-### Libraries
-- Pandas
-- NumPy
+### Machine Learning & AI
 - Scikit-learn
 - TensorFlow / Keras
+- CNN
+- BiLSTM
+- XGBoost
 
-### Data Visualization
-- Power BI
+### Data Analysis & Visualization
+- Pandas
+- NumPy
 - Matplotlib
-- Excel
+- Seaborn
+- Power BI
+- Microsoft Excel
 
 ### Databases
 - MySQL
+- MongoDB
+- GraphDB
+
+### Web Technologies
+- Flask
+- HTML
+- CSS
+- JavaScript
 
 ### Tools
-- Jupyter Notebook
 - Git
 - GitHub
+- Jupyter Notebook
 - Databricks (Basic)
+- Pinnacle21
+- Kwalify
 
 ---
 
 ## Featured Projects
 
-### Human Activity Recognition
-Developed a deep learning model using CNN, CBAM, and BiLSTM for activity recognition from sensor data.
+### Human Activity Recognition using CNN-CBAM-BiLSTM
 
-### Adani Stock Price Prediction
-Built machine learning and deep learning models, including LSTM, to predict stock prices.
+- Developed a hybrid deep learning model for sensor-based human activity recognition.
+- Achieved **96.41% Accuracy** and **0.9672 F1-score** on the KU-HAR dataset.
 
 ### Traditional Knowledge Archive System
-Developed a Flask-based application with multilingual OCR support for preserving and managing traditional knowledge.
+
+- Developed a Flask-based web application with multilingual OCR support.
+- Integrated Tesseract OCR, MySQL, and MongoDB for efficient manuscript management.
+
+### Stock Price Prediction using Machine Learning
+
+- Compared LSTM, Random Forest, and XGBoost models using historical Adani stock data.
+- Achieved an **R² Score of 0.9299** using the LSTM model.
 
 ---
 
 ## Certifications
 
+- IBM – Databases and SQL for Data Science (Coursera)
 - Deloitte Data Analytics Job Simulation (Forage)
 - Elements of AI
 - Cybersecurity Fundamentals
@@ -73,7 +95,14 @@ Developed a Flask-based application with multilingual OCR support for preserving
 
 ## Connect with Me
 
-**Email:** mangaiofficial20@gmail.com
+Email: **mangaiofficial20@gmail.com**
 
-**LinkedIn:**  
-www.linkedin.com/in/mangais20
+LinkedIn:  
+https://linkedin.com/in/mangais20
+
+GitHub:  
+https://github.com/MangaiS20
+
+---
+
+Thank you for visiting my profile. Feel free to explore my repositories and connect with me.
